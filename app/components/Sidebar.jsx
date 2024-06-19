@@ -6,7 +6,7 @@ import LogoIcon from "@/public/icons/Logo";
 import CollapsIcon from "@/public/icons/CollapsIcon";
 import ArticleIcon from "@/public/icons/ArticleIcon";
 import VideoIcon from "@/public/icons/VideoIcon";
-import LogoutMenu from "@/public/icons/tezt.jsx"
+import LogoutMenu from "@/public/icons/LogoutMenu.jsx"
 import CalenderIcon from "@/public/icons/CalenderIcon";
 import WaitlistConfirm from "@/public/icons/WaitList";
 import { usePathname } from "next/navigation"; 
